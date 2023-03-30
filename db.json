@@ -41,6 +41,18 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "e",
+      "image": "ee",
+      "price": "1",
+      "id": 8
+    },
+    {
+      "name": "Larson Collier",
+      "image": "https://www.flawlessskinbyabby.com/blog/wp-content/uploads/2020/10/bubble-butt.jpg",
+      "price": "0.07",
+      "id": 9
     }
   ]
 }
