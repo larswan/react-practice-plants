@@ -2,8 +2,6 @@ import React from "react";
 
 function NewPlantForm({setDisplayPlants}) {
 
-  
-
   const submitPlant = async(e) => {
     e.preventDefault()
 

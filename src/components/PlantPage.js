@@ -23,7 +23,7 @@ function PlantPage() {
   return (
     <main>
       <NewPlantForm setDisplayPlants={setDisplayPlants} />
-      <Search />
+      <Search plants={plants} setDisplayPlants={setDisplayPlants} />
       <PlantList displayPlants={displayPlants} setDisplayPlants={setDisplayPlants}/>
     </main>
   );
